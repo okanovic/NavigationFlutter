@@ -1,4 +1,4 @@
-# navigation_multiple_screen_app
+# shop_app
 
 A new Flutter project.
 

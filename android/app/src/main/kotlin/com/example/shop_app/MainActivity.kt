@@ -1,4 +1,4 @@
-package com.example.navigation_multiple_screen_app
+package com.example.shop_app
 
 import io.flutter.embedding.android.FlutterActivity
 
